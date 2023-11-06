@@ -12,7 +12,7 @@ global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
 global.sudo = process.env.SUDO || '94760018802'
 global.devs = '94760018802';
-global.website = 'https://github.com/yasiyaofc1/FORZEN-MD' //wa.me/+94000000000
+global.website = 'https://github.com/yasiyaofc1/FORZEN-MD' //wa.me/+94760018802
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/0b5a7839e8ee21874921e.jpg'
 module.exports = {
   botname:   process.env.BOT_NAME === undefined ? 'FORZEN MD' : process.env.BOT_NAME,
