@@ -1,8 +1,5 @@
   <div align="center">
 
-Please do not deploy this project until further notice.🚫
-
-I will fix the error soon....🧬
     
 ## ❄️ 𝑭𝑶𝑹𝒁𝑬𝑵 𝑴𝑫 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 𝑩𝑶𝑻 ❄️ 
 
@@ -41,8 +38,16 @@ I will fix the error soon....🧬
 ●.  ***Click [FORK](https://github.com/yasiyaofc1/FORZEN-MD/fork)***
 
 ## ```SCAN QR CODE```
-[![SCAN QR](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@yasithasamujit2/FORZEN-MD)
+---
+**[SCAN QR-CODE-SERVER-1](https://replit.com/@yasithasamujit2/FORZEN-MD)**
 
+
+
+**[SCAN QR CODE-SERVER-2](https://forzen-md-qr-bb8466fecf86.herokuapp.com/)**
+
+  
+
+**[SCAN QR-CODE-SERVER-3](https://forzen-md-qr-bb8466fecf86.herokuapp.com/)**
 
 
 ## ```HEROKU DEPLOYMENT```
