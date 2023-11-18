@@ -1,32 +1,34 @@
-   {
-"scripts": {
-"start": "pm2 start lib/client.js --deep-monitoring --attach --name forzen-md",
-"stop": "pm2 stop forzen-md",
-"restart": "pm2 restart forzen-md"
+{
+               "name": "forzen-md",
+               "version": "1.0.5",
+               "description": "Multi device whatsapp bot by Yasiya.",
+               "main": "lib/client.js",
+               "type": "commonjs",
+               "license": "GPL-3.0",
+   "scripts": {
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name Forzen-Md",
+                "stop": "pm2 stop Forzen-Md"
                 },
-                       "dependencies": {
-                       "@whiskeysockets/baileys": "git+https://github.com/yasiyaofc1/FORZEN-MD.git",
+               "author": "Yasiya-OFC",
+              "dependencies": {
+                       "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
                        "awesome-phonenumber": "^3.3.0",
                        "anime-character-random": "latest",
-                        "@kaveesha-sithum/tiktok-dl":"2.0.0",
                        "axios": "^0.24.0",
                        "cheerio": "^1.0.0-rc.10",
                        "crypto-js":"latest",
                        "chalk": "^4.1.2",
                        "@hapi/boom": "^9.1.4",
-                       "util": "^0.12.4",
                        "child_process": "^1.0.2",
                        "discord-mongoose-economy": "^1.2.0",
                        "express": "^4.18.1",
-                       "hirunews-scraper":"^3.0.0",
                        "fs-extra": "^10.1.0",
-                       "sirasa-news": "latest",
                        "koyeb-api-client":"latest",
                        "dotenv": "^16.0.0",
                        "discord-xp": "^1.1.16",
                        "mongoose": "^6.2.1",
-                       "mumaker": "^2.0.0",
+                       "mumaker": "^1.0.0",
                        "google-it": "^1.6.2",
                        "google-image-sr": "^1.0.0",
                        "file-type": "^16.5.3",
@@ -53,24 +55,38 @@
                        "translatte": "^3.0.1",
                        "util": "^0.12.4",           
                        "secktor-pack": "latest",
-                       "youtubedl-core": "git+ssh://git@github.com:khlevon/node-ytdl-core.git#v4.11.4-patch.2",
-                       "googlebard": "latest",
+                       "g-i-s": "^2.1.6",
+                       "pornhub.js" : "^1.3.2",
+                       "ytdl-secktor": "latest",
                        "@blackamda/song_video_dl": "latest",
-                       "vihangayt-fbdl": "latest",
+                       "pastebin-js": "latest",
                        "aptoide-scraper": "latest",
                        "getscreenshot.js": "latest",
-                       "@blackamda/telegram-image-url": "latest",
-                       "fouadwa-scraper": "latest",
-                       "pastebin-js": "latest",
+                       "vihangayt-fbdl": "latest",
                        "mfiredlcore-vihangayt": "latest",
                        "chatgpt-scraper": "latest",
-                       "@sl-code-lords/youtube-dl": "latest",
-                       "@sl-code-lords/holidays": "latest",
+                       "@sl-code-lords/openai-chatgpt": "latest",
+                       "@sl-code-lords/text-pro-me": "latest",
+                       "@sl-code-lords/image-library": "^1.0.0",
+                       "@jeve/lyrics-finder" : "^1.0.1",
                        "@sl-code-lords/esana-news": "latest",
                        "@sl-code-lords/wabetainfo": "latest",
                        "@sl-code-lords/si-subdl": "latest",
-                       "truecallerjs": "latest",
-                       "fb-info-video":"latest",
+                       "@sl-code-lords/openai-chatgpt": "latest",
+                       "hirunews-scraper": "latest",
+                       "sirasa-news": "latest",
+                       "tech-news-scraper": "latest",
+                       "ios-news": "latest",
+                       "nima-threads-dl-api": "latest",
+                       "@sl-code-lords/movie-dl": "^1.0.2",
+                       "@sl-code-lords/youtube-dl": "^1.0.2",
+                       "@bochilteam/scraper-downloader": "latest",
+                       "@saipulanuar/tiktok-scraper-ts": "latest",
+                       "@xaviabot/fb-downloader": "latest",
+                       "api-dylux": "latest",
+                       "@xct007/frieren-scraper": "latest",
+                       "fouadwa-scraper": "latest",
+                       "fb-info-video": "latest",
                        "wa-sticker-formatter": "^4.3.2",
                        "wa_set_pkg":"1.0.1"
                       },
@@ -79,7 +95,7 @@
                        "assets": "lib/assets"
                     },
                   "devDependencies": {
-                       "pino": "^8.16.0"
+                       "pino": "^7.0.5"
                     },
                  "repository": {
                  "type": "git",
@@ -89,4 +105,4 @@
                  "url": "https://github.com/yasiyaofc1/FORZEN-MD/issues"
                   },
                  "homepage": "https://github.com/yasiyaofc1/FORZEN-MD#readme"
-                       }
+                  }
