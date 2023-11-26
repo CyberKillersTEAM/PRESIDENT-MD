@@ -38,11 +38,11 @@
 
 ## ```SCAN QR CODE```
 
-**[SCAN QR-CODE-SERVER-1](https://replit.com/@DarkYasiyaofc/FORZEN-MD-V1)**
+**[SCAN QR-CODE-SERVER-1](https://replit.com/@DarkYasiyaofc/FORZEN-MD-V2?v=1)**
 
 
 
-**[SCAN QR CODE-SERVER-2](https://replit.com/@DarkYasiyaofc/FORZEN-MD-V1)**
+**[SCAN QR CODE-SERVER-2](https://replit.com/@DarkYasiyaofc/FORZEN-MD-V2?v=1)**
 
   
 
