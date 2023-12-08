@@ -42,7 +42,7 @@
 
 
 
-**[SCAN QR CODE-SERVER-2](https://replit.com/@DarkYasiyaofc/FORZEN-MD-V2?v=1)**
+**[SCAN QR CODE-SERVER-2](https://replit.com/@DarkYasiyaofc/FORZEN-MD-QR?v=1)**
 
   
 
