@@ -13,12 +13,12 @@ global.gurl = 'https://instagram.com/' // add your username
 global.sudo = process.env.SUDO || '94766632281'
 global.devs = '94766632281';
 global.website = 'https://github.com/MrIsuru/PRESIDENT-MD' //wa.me/+94766632281
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/0b5a7839e8ee21874921e.jpg'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.postimg.cc/Gmh9VMZ5/PRESIDENT-MD.jpg'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? 'PRESIDENT MD' : process.env.BOT_NAME,
-  ownername: process.env.OWNER_NAME === undefined ? 'CYBER ISURU' : process.env.OWNER_NAME,
+  botname:   process.env.BOT_NAME === undefined ? 'PRESIDENT-MD' : process.env.BOT_NAME,
+  ownername: process.env.OWNER_NAME === undefined ? 'Mʀ Iꜱᴜʀᴜ X' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? true : process.env.SESSION_ID,
-  author:  process.env.PACK_INFO.split(";")[0] === undefined ? 'CYBER ISURU' : process.env.PACK_INFO.split(";")[0],
+  author:  process.env.PACK_INFO.split(";")[0] === undefined ? 'Mʀ Iꜱᴜʀᴜ X' : process.env.PACK_INFO.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? true : process.env.AUTO_READ_STATUS,
   packname:  process.env.PACK_INFO.split(";")[1] === undefined ? 'PRESIDENT MD' : process.env.PACK_INFO.split(";")[1],
   autoreaction:  process.env.AUTO_REACTION  === undefined ? true : process.env.AUTO_REACTION ,
@@ -44,7 +44,7 @@ module.exports = {
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? 'zeropgg' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
-  LANG: process.env.THEME|| 'FORZEN-MD',
+  LANG: process.env.THEME|| 'PRESIDENT-MD',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'private' : process.env.WORKTYPE
 };
 
