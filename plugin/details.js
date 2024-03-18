@@ -1,5 +1,5 @@
 {
-  "owners": {
+  "deverlopers": {
     "owner": {
       "id": "94766632281",
       "react": "🕵️‍♂️"
