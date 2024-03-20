@@ -14,7 +14,6 @@
     
 <p align="center"> 
   <a ![forks](https://img.shields.io/github/forks/MrIsuru/PRESIDENT-MD?label=Forks&style=social) a>
-  p>
 
 
 ![stars](https://img.shields.io/github/stars/MrIsuru/PRESIDENT-MD?style=social)
