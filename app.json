@@ -9,16 +9,16 @@
   "OWNER_NAME": {
   "description": "OWNER NAME",
       "value": "Mʀ Iꜱᴜʀᴜ X"
-  },
+    },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
        "required" :false
-      },
+    },
   "AUTO_READ_STATUS": {
     "description": "Fill the value true if you want bot view your Statuses.",
     "required" :false,
     "value": "false"
-      },
+    },
     "HEROKU_API_KEY": {
     "description": "Put HEROKU API KEY",
      "required" :true
@@ -39,7 +39,7 @@
     "description": "Put words for antilink",
      "value": "chat.whatsapp.com",
      "required" :false
-     },
+    },
    "FAKE_COUNTRY_CODE": {
     "description": "Put the Country Code Name without +",
      "value": "212",
@@ -69,7 +69,7 @@
 	    "description": "Choose your bot name",
 	    "required": "true",
 	    "value": "PRESIDENT-MD"
-},
+    },
     "DISABLE_PM": {
       "description": "Disable bot in pm",
       "value": "false",
@@ -78,59 +78,54 @@
       "PREFIX": {
   "description": "Enter your desired prefix for bot.",
       "value": "."
-  },
+    },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
        "value": "94766632281"
-  },
+    },
    "SESSION_ID": {
     "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to https://replit.com/@CyberIsuru1/PRESIDENT-MD-or-QR"
-  },
+    },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
        "value": "ADD A OPEN AI KEY",
        "required" :false
-  },
+    },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
     "value": "mongodb+srv://KUSHAN:4000@cluster0.zji09ho.mongodb.net/"
-  },
+    },
     "THEME": {
     "description": "Don't Change . No Need To Change  Avilable - PRESIDENT-MD",
      "value": "PRESIDENT-MD"
-  },
+    },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
          "value": "public"
-  },
+    },
       "AUTO_REACTION": {
     "description": "Reacts emoji to all messages.",
      "value": "false",
      "required": false 
-  },
+    },
   "PACK_AUTHER": {
     "description": "PUT STICKER AUTHOR NAME",
     "value": "CYBER-ISURU"
-  },
+    },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
     "value": "PRESIDENT-MD"
-  },
+    },
   "heroku": {
     "description": "Weather it is on heroku or not",
      "value": "true",
      "required": false   
-  }
+    }
 },
 "formation": {
 		"worker": {
 			"quantity": 1,
 			"size": "basic"
 		}
-	},
-"addons": [
-		{
-			"plan": "heroku-postgresql"
-		}
-	]
+	}
 }
