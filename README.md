@@ -13,7 +13,8 @@
     
     
 <p align="center"> 
-  ![forks](https://img.shields.io/github/forks/MrIsuru/PRESIDENT-MD?label=Forks&style=social) p>
+  <a ![forks](https://img.shields.io/github/forks/MrIsuru/PRESIDENT-MD?label=Forks&style=social) />
+  </a>
 
 
 ![stars](https://img.shields.io/github/stars/MrIsuru/PRESIDENT-MD?style=social)
