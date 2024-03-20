@@ -12,7 +12,7 @@
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
     
     
-![forks](https://img.shields.io/github/forks/MrIsuru/PRESIDENT-MD?label=Forks&style=social)
+<p align="center"> ![forks](https://img.shields.io/github/forks/MrIsuru/PRESIDENT-MD?label=Forks&style=social)
 
 ![stars](https://img.shields.io/github/stars/MrIsuru/PRESIDENT-MD?style=social)
   
