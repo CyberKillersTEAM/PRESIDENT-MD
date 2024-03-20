@@ -10,9 +10,6 @@
   </a>
   <a aria-label="Simple Bot" href="https://github.com/MrIsuru/PRESIDENT-MD/blob/main/LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
-  </a>
-
-</p>
     
     
 <div align="center"> ![forks](https://img.shields.io/github/forks/MrIsuru/PRESIDENT-MD?label=Forks&style=social)
