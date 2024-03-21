@@ -96,7 +96,7 @@
 
 <p align="center" >
     <a href="https://dashboard.heroku.com/new-app?org=personal-apps">
-    <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="New App on Heroku" >
+    <img src="https://www.herokucdn.com/new-app/button.png" width="160px" alt="New App on Heroku" >
     </a>
     
 
