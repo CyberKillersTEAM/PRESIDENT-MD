@@ -25,17 +25,17 @@
 ![Visitor Count](https://profile-counter.glitch.me/MrIsuru/count.svg) 
 
 
-## ➣ 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗 (𝗤𝗥 𝗖𝗢𝗗𝗘)
+## ➣ 𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗 (𝗤𝗥 𝗖𝗢𝗗𝗘)
 
-`- To use This bot you need to scan the qr code<br>`
+`● To use This bot you need to scan the qr code<br>`
 
-**[SCAN QR-CODE-SERVER-1](https://replit.com/@CyberIsuru1/PRESIDENT-MD-or-QR)**
+**[SCAN QR-CODE](https://replit.com/@CyberIsuru1/PRESIDENT-MD-or-QR)**
 
 
 
 ## ➣ 𝗚𝗘𝗧 𝗠𝗢𝗡𝗚𝗢𝗗𝗕 𝗨𝗥𝗟
 
- *Mongodb uri from [Clever-Cloud](https://api.clever-cloud.com/v2/session/login).*
+*Mongodb uri from [Clever-Cloud](https://api.clever-cloud.com/v2/session/login).*
 
 *Mongodb uri from [railway.app](https://railway.app).*
 
@@ -59,18 +59,8 @@
 3. Thirdly, add the environment that I have left below to the app you have created.
 (තෙවනුව මම පහළින් දාලා තියෙන ENVIRONMENT ටික ඔයා හදාගත්ත ඇප් එකට ඇඩ් කරගන්න.)
 
-4.Then deploy your Heroku app.
+4. Then deploy your Heroku app.
 (ඉන්පසු ඔබේ Heroku ඇප් එක Deploy කරගන්න.)
-
-
-`- Click the below button to Create Heroku App!`
-
-
-    <a href="https://heroku.com/deploy?template=https://github.com/MrIsuru/PRESIDENT-MD">
-    <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
-    </a>
-    
-
 
 ```
 {
@@ -78,28 +68,50 @@
   "THEME": "PRESIDENT-MD",
   "OWNER_NUMBER": "94766632281",
   "OWNER_NAME": "Mʀ Iꜱᴜʀᴜ X",
+  "SUDO": "94766632281",
+  "BOT_NAME": "PRESIDENT-MD",
+  "THUMB_IMAGE": "https://i.postimg.cc/Gmh9VMZ5/PRESIDENT-MD.jpg",
+  "ANTI_BAD_WORD": "fuck",
+  "ANTILINK_VALUES": "chat.whatsapp.com",
+  "ANTILINK_ACTION": "remove",
+  "FAKE_COUNTRY_CODE": "212",
+  "LEVEL_UP_MESSAGE": "false",
+  "DISABLE_PM": "false",
+  "PREFIX": ".",
   "OPENAI_API_KEY": "null",
   "WORKTYPE": "public",
+  "AUTO_READ_STATUS": "true",
   "AUTO_STATUS_SAVER": "false",
   "READ_MESSAGE": "true",
   "AUTO_REACTION": "true",
-  "ALWAYS_ONLINE": "true",
   "MONGODB_URI": "mongodb://mongo:cCBe2fBeA26f4eEbDbC2gD64226EHFg3@viaduct.proxy.rlwy.net:34483",
-  "PACK_INFO": "DARK-CHAMA;SAKURA-MD",
+  "PACK_AUTHOR": "CYBER-ISURU",
+  "PACK_NAME": "PRESIDENT-MD"
    
 }
 ```
 
+`● Click the below button to Create Heroku App!`
+
+
+    <a href="https://heroku.com/new-app?template=https://dashboard.heroku.com/new-app?org=personal-apps">
+    <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="New App on Heroku" >
+    </a>
+    
+
+
+
+
 
 ```
-## 🤖 SAKURA MD ඔබට ඉතමත් ලෙසියෙන් සද ගත හැකි WAHTSAPP BOT වරයෙකි
+## 🤖 PRESIDENT-MD යනු, ඔබට ඉතාමත් පහසුවෙන් සාදාගත හැකි WAHTSAPP BOT වර්ගයකි.
 ```
 
 
-## [☰💃 𝐒𝐀𝐊𝐔𝐑𝐀 𝐌𝐃 𝐓𝐄𝐀𝐌 💃☰]
+## [👨‍🔧 𝐏𝐑𝐄𝐒𝐈𝐃𝐄𝐍𝐓-𝐌𝐃 𝐃𝐄𝐕𝐄𝐑𝐋𝐎𝐏𝐄𝐑 𝐓𝐄𝐀𝐌 👨‍🔧]
 
-| <a href="https://github.com/yasiyaofc1"><img src="https://telegra.ph/file/f94c2dd16ca20b270db3a.jpg" width=80 height=80></a> | <a href="http://github.com/induwaraofc"><img src="https://telegra.ph/file/903e16f9effd8de11cc76.jpg" width=80 height=80></a> | <img src="https://telegra.ph/file/a8ba0753cee4c95c9b0be.jpg" width=80 height=80></a> |
+| <a href="https://github.com/MrIsuru"><img src="https://telegra.ph/file/33ef3dbed1d2b4315b896.jpg" width=80 height=80></a> | <a href="http://github.com/MrTharuwa"><img src="https://telegra.ph/file/b5143b333027982497a03.jpg" width=80 height=80></a> |
 |---|---|---|
-| **[DARK YASIYA](https://github.com/yasiyaofc1)**</br>devaloper and founder</br> | **[DARK INDUWARA](https://github.com/induwaraofc)**</br> co-owner and bug tester| **[DARK CHAMA](https://github.com/DarkChamaofc)**</br> co-owner and owner
+| **[CYBER ISURU](https://github.com/MrIsuru)**</br>Deverloper and Founder</br> | **[CYBER THARUWA](https://github.com/MrTharuwa)**</br> Co-Owner and Bug Tester
 
 `Release date:- comming soon`
