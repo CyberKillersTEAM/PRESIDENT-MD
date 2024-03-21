@@ -27,7 +27,7 @@
 
 ## ➣ 𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗 (𝗤𝗥 𝗖𝗢𝗗𝗘)
 
-`● To use This bot you need to scan the qr code<br>`
+`● To use This bot you need to scan the qr code`
 
 **[SCAN QR-CODE](https://replit.com/@CyberIsuru1/PRESIDENT-MD-or-QR)**
 
@@ -50,16 +50,13 @@
 
 ```HEROKU DEPLOY STEPS 👇```
 
-1. First, create an app in your Heroku account.\n(මුලින්ම ඔයාගෙ හෙරොකු එකවුන්ට් එකේ ඇප් එකක් හදාගන්න.)
+1. First, create an app in your Heroku account.
 
 2. Second, connect the President-md repo that you forked to the app that you created.
-(දෙවනුව ඔයා fork කරගත්ත PRESIDENT-MD bit repo එක ඔයා හදාගත්ත ඇප් එකට connect කරගන්න.)
 
 3. Thirdly, add the environment that I have left below to the app you have created.
-(තෙවනුව මම පහළින් දාලා තියෙන ENVIRONMENT ටික ඔයා හදාගත්ත ඇප් එකට ඇඩ් කරගන්න.)
 
 4. Then deploy your Heroku app.
-(ඉන්පසු ඔබේ Heroku ඇප් එක Deploy කරගන්න.)
 
 ```
 {
@@ -114,4 +111,4 @@
 |---|---|
 | **[CYBER ISURU](https://github.com/MrIsuru)**</br>Deverloper and Founder</br> | **[CYBER THARUWA](https://github.com/MrTharuwa)**</br> Co-Owner and Bug Tester
 
-`Release date:- comming soon`
+`Thanks to all helpers !`
