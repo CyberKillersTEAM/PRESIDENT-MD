@@ -112,6 +112,6 @@
 
 | <a href="https://github.com/MrIsuru"><img src="https://telegra.ph/file/33ef3dbed1d2b4315b896.jpg" width=80 height=80></a> | <a href="http://github.com/MrTharuwa"><img src="https://telegra.ph/file/b5143b333027982497a03.jpg" width=80 height=80></a> |
 |---|---|
-|    **[CYBER ISURU](https://github.com/MrIsuru)**</br>Deverloper and Founder</br> |   **[CYBER THARUWA](https://github.com/MrTharuwa)**</br> Co-Owner and Bug Tester
+|      **[CYBER ISURU](https://github.com/MrIsuru)**</br>Deverloper and Founder</br> |     **[CYBER THARUWA](https://github.com/MrTharuwa)**</br> Co-Owner and Bug Tester
 
 `Release date:- comming soon`
