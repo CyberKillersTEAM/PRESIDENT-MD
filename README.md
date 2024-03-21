@@ -50,8 +50,7 @@
 
 ```HEROKU DEPLOY STEPS 👇```
 
-1. First, create an app in your Heroku account.
-(මුලින්ම ඔයාගෙ හෙරොකු එකවුන්ට් එකේ ඇප් එකක් හදාගන්න.)
+1. First, create an app in your Heroku account.\n(මුලින්ම ඔයාගෙ හෙරොකු එකවුන්ට් එකේ ඇප් එකක් හදාගන්න.)
 
 2. Second, connect the President-md repo that you forked to the app that you created.
 (දෙවනුව ඔයා fork කරගත්ත PRESIDENT-MD bit repo එක ඔයා හදාගත්ත ඇප් එකට connect කරගන්න.)
@@ -94,7 +93,7 @@
 `● Click the below button to Create Heroku App!`
 
 
-<
+-
     <a href="https://dashboard.heroku.com/new-app?org=personal-apps">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="New App on Heroku" >
     </a>
@@ -105,7 +104,7 @@
 
 
 ```
-## 🤖 PRESIDENT-MD යනු, ඔබට ඉතාමත් පහසුවෙන් සාදාගත හැකි WAHTSAPP BOT වර්ගයකි.
+🤖 PRESIDENT-MD යනු, ඔබට ඉතාමත් පහසුවෙන් සාදාගත හැකි WAHTSAPP BOT වර්ගයකි. ✓
 ```
 
 
