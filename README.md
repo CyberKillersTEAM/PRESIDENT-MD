@@ -29,7 +29,8 @@
 
 `● To use This bot you need to scan the qr code`
 
-**[SCAN QR-CODE](https://replit.com/@CyberIsuru1/PRESIDENT-MD-or-QR)**
+<a href='https://president-md-session-id-0770bba46538.herokuapp.com/' target="_blank"><img alt='qr repo' src='https://img.shields.io/badge/Scan Qr code 1-black?style=for-the-badge&logo=openv&logoColor=white'/></a>
+
 
 
 
