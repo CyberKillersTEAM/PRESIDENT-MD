@@ -29,7 +29,9 @@
 
 `● To use This bot you need to scan the qr code`
 
-<a href='https://president-md-session-id-0770bba46538.herokuapp.com/' target="_blank"><img alt='qr repo' src='https://img.shields.io/badge/Scan Qr code 1-black?style=for-the-badge&logo=openv&logoColor=white'/></a>
+<a href='https://president-md-session-id-0770bba46538.herokuapp.com/' target="_blank"><img alt='qr repo' src='https://img.shields.io/badge/Scan Qr code 1-yellow?style=for-the-badge&logo=openv&logoColor=white'
+href='https://president-md-session-id.vercel.app/' target="_blank"><img alt='qr repo' src='https://img.shields.io/badge/Scan Qr code 2-blue?style=for-the-badge&logo=openv&logoColor=white'/></a>
+
 
 
 
