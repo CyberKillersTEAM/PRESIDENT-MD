@@ -31,7 +31,7 @@
 
 <a href='https://president-md-session-id-0770bba46538.herokuapp.com/' target="_blank"><img alt='qr repo' src='https://img.shields.io/badge/Scan Qr code 1-yellow?style=for-the-badge&logo=openv&logoColor=white'/></a>
 
-<a href='https://president-md-session-id.vercel.app/' target="_blank"><img alt='qr repo' src='https://img.shields.io/badge/Scan Qr code 2-blue?style=for-the-badge&logo=openv&logoColor=white'/></a>
+<a href='https://president-md-session-id.onrender.com/' target="_blank"><img alt='qr repo' src='https://img.shields.io/badge/Scan Qr code 2-blue?style=for-the-badge&logo=openv&logoColor=white'/></a>
 
 
 
@@ -58,7 +58,7 @@
 
 2. Second, connect the President-md repo that you forked to the app that you created.
 
-3. Thirdly, add the environment that I have left below to the app you have created.
+3. Thirdly, add the environment that I have left below to the app you have created.(Add only those you like.)
 
 4. Then deploy your Heroku app.
 
@@ -84,7 +84,7 @@
   "AUTO_STATUS_SAVER": "false",
   "READ_MESSAGE": "true",
   "AUTO_REACTION": "true",
-  "MONGODB_URI": "mongodb://mongo:cCBe2fBeA26f4eEbDbC2gD64226EHFg3@viaduct.proxy.rlwy.net:34483",
+  "MONGODB_URL": "mongodb://mongo:cCBe2fBeA26f4eEbDbC2gD64226EHFg3@viaduct.proxy.rlwy.net:34483",
   "PACK_AUTHOR": "CYBER-ISURU",
   "PACK_NAME": "PRESIDENT-MD"
    
